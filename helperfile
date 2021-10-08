@@ -1,0 +1,19 @@
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+
+          
+
+
+          
+           <Route exact path="/health">
+          <News key="health" pageSize={3} country="in" category="health"></News>
+          </Route>
+           <Route exact path="/health">
+          <News key="health" pageSize={3} country="in" category="health"></News>
+          </Route>
